@@ -1,0 +1,2 @@
+(this["webpackJsonpmaticswap-amm"]=this["webpackJsonpmaticswap-amm"]||[]).push([[6,7],{644:function(n,c){},645:function(n,c){},655:function(n,c){},656:function(n,c){},676:function(n,c){},677:function(n,c){}}]);
+//# sourceMappingURL=6.a11c3c86.chunk.js.map
